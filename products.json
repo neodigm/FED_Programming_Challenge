@@ -1,15 +1,236 @@
 [
-  {cat:"napkins", product:"Cocktail", descr:"prod desc", price:"1.00", sale:".50"},
-  {cat:"napkins", product:"Dinner", descr:"prod desc", price:"1.00", sale:".50"},
-  {cat:"napkins", product:"Photo", descr:"prod desc", price:"1.00", sale:".50"},
-  {cat:"napkins", product:"Luncheon", descr:"prod desc", price:"1.00", sale:".50"},
-  {cat:"napkins", product:"Napkin Rings", descr:"prod desc", price:"1.00", sale:".50"},
-  
-  {cat:"matches", product:"prod name", descr:"prod desc", price:"2.20", sale:"1.50"},
-  {cat:"cups + plates", product:"prod name", descr:"prod desc", price:"3.40", sale:"2.50"},
-  {cat:"masks + wellness", product:"prod name", descr:"prod desc", price:"6.80", sale:"3.50"},
-  {cat:"bags, tags + favors", product:"prod name", descr:"prod desc", price:"9.10", sale:"5.50"},
-  {cat:"barware", product:"prod name", descr:"prod desc", price:"1.00", sale:".50"},
-  {cat:"gifts", product:"prod name", descr:"prod desc", price:"3.44", sale:"2.50"},
-  {cat:"invitations", product:"prod name", descr:"prod desc", price:"6.00", sale:"2.50"},
+   {
+      "cat":"napkins",
+      "product":"Cocktail",
+      "price":"1.00",
+      "sale":".60"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Shot Glasses",
+      "price":"3.40",
+      "sale":"2.53"
+   },
+   {
+      "cat":"napkins",
+      "product":"Luncheon",
+      "price":"1.00",
+      "sale":".57"
+   },
+   {
+      "cat":"napkins",
+      "product":"Napkin Rings",
+      "price":"1.00",
+      "sale":".56"
+   },
+   {
+      "cat":"masks + wellness",
+      "product":"Disposable Masks",
+      "price":"6.80",
+      "sale":"3.50"
+   },
+   {
+      "cat":"matches",
+      "product":"Classic",
+      "price":"2.20",
+      "sale":"1.50"
+   },
+   {
+      "cat":"invitations",
+      "product":"Business Cards",
+      "price":"6.00",
+      "sale":"2.51"
+   },
+   {
+      "cat":"matches",
+      "product":"Mini",
+      "price":"2.20",
+      "sale":"1.50"
+   },
+   {
+      "cat":"barware",
+      "product":"Stir Sticks",
+      "price":"1.00",
+      "sale":".50"
+   },
+   {
+      "cat":"matches",
+      "product":"Candle",
+      "price":"2.20",
+      "sale":"1.50"
+   },
+   {
+      "cat":"invitations",
+      "product":"A7",
+      "price":"6.00",
+      "sale":"2.51"
+   },
+   {
+      "cat":"matches",
+      "product":"Exploding",
+      "price":"2.20",
+      "sale":"1.50"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Frost Flex",
+      "price":"3.40",
+      "sale":"2.50"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Colored Frost Flex",
+      "price":"3.40",
+      "sale":"2.50"
+   },
+   {
+      "cat":"gifts",
+      "product":"Holiday",
+      "price":"3.44",
+      "sale":"2.60"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Styrofoam",
+      "price":"3.40",
+      "sale":"2.505"
+   },
+   {
+      "cat":"bags, tags + favors",
+      "product":"Cake Boxes",
+      "price":"9.10",
+      "sale":"5.50"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Stadium",
+      "price":"3.40",
+      "sale":"2.54"
+   },
+   {
+      "cat":"cups + plates",
+      "product":"Can Coolers",
+      "price":"3.40",
+      "sale":"2.52"
+   },
+   {
+      "cat":"masks + wellness",
+      "product":"Hand Sanitizer",
+      "price":"6.80",
+      "sale":"3.50"
+   },
+   {
+      "cat":"masks + wellness",
+      "product":"Social Distancing",
+      "price":"6.80",
+      "sale":"3.50"
+   },
+   {
+      "cat":"bags, tags + favors",
+      "product":"Favor Bags",
+      "price":"9.10",
+      "sale":"5.50"
+   },
+   {
+      "cat":"bags, tags + favors",
+      "product":"Gift Bags",
+      "price":"9.10",
+      "sale":"5.50"
+   },
+   {
+      "cat":"gifts",
+      "product":"Poker Box",
+      "price":"3.44",
+      "sale":"2.53"
+   },
+   {
+      "cat":"bags, tags + favors",
+      "product":"Satin Ribbon",
+      "price":"9.10",
+      "sale":"5.50"
+   },
+   {
+      "cat":"bags, tags + favors",
+      "product":"Tea Favors",
+      "price":"9.10",
+      "sale":"5.50"
+   },
+   {
+      "cat":"napkins",
+      "product":"Photo",
+      "price":"1.00",
+      "sale":".58"
+   },
+   {
+      "cat":"barware",
+      "product":"Classic Coasters",
+      "price":"1.00",
+      "sale":".50"
+   },
+   {
+      "cat":"barware",
+      "product":"Leather Coasters",
+      "price":"1.00",
+      "sale":".50"
+   },
+   {
+      "cat":"matches",
+      "product":"Cigar",
+      "price":"2.20",
+      "sale":"1.50"
+   },
+   {
+      "cat":"barware",
+      "product":"Tabletop Signs",
+      "price":"1.00",
+      "sale":".50"
+   },
+   {
+      "cat":"gifts",
+      "product":"Party Favors",
+      "price":"3.44",
+      "sale":"2.50"
+   },
+   {
+      "cat":"gifts",
+      "product":"Grab and Go",
+      "price":"3.48",
+      "sale":"2.50"
+   },
+   {
+      "cat":"gifts",
+      "product":"Gift Cards",
+      "price":"3.44",
+      "sale":"2.44"
+   },
+   {
+      "cat":"invitations",
+      "product":"Stationery",
+      "price":"6.00",
+      "sale":"2.51"
+   },
+   {
+      "cat":"barware",
+      "product":"Roller Coasters",
+      "price":"1.00",
+      "sale":".50"
+   },
+   {
+      "cat":"invitations",
+      "product":"Recipe Cards",
+      "price":"6.00",
+      "sale":"2.51"
+   },
+   {
+      "cat":"invitations",
+      "product":"RSVP",
+      "price":"6.08",
+      "sale":"2.51"
+   },
+   {
+      "cat":"napkins",
+      "product":"Dinner",
+      "price":"1.00",
+      "sale":".59"
+   }
 ]
