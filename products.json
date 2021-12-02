@@ -1,3 +1,15 @@
 [
-  {cat:"napkins", product:"prod name", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"napkins", product:"Cocktail", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"napkins", product:"Dinner", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"napkins", product:"Photo", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"napkins", product:"Luncheon", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"napkins", product:"Napkin Rings", descr:"prod desc", price:"1.00", sale:".50"},
+  
+  {cat:"matches", product:"prod name", descr:"prod desc", price:"2.20", sale:"1.50"},
+  {cat:"cups + plates", product:"prod name", descr:"prod desc", price:"3.40", sale:"2.50"},
+  {cat:"masks + wellness", product:"prod name", descr:"prod desc", price:"6.80", sale:"3.50"},
+  {cat:"bags, tags + favors", product:"prod name", descr:"prod desc", price:"9.10", sale:"5.50"},
+  {cat:"barware", product:"prod name", descr:"prod desc", price:"1.00", sale:".50"},
+  {cat:"gifts", product:"prod name", descr:"prod desc", price:"3.44", sale:"2.50"},
+  {cat:"invitations", product:"prod name", descr:"prod desc", price:"6.00", sale:"2.50"},
 ]
