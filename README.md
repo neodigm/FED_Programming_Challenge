@@ -3,7 +3,7 @@ This is a front-end engineer programming exercise designed to test the skills re
 
 Your task is to create a hierarchical menu displaying products by collapsible categories with “add to favorites” functionality.
 
-1). Create a new github repo and make public via a gh-pages branch
+1). Create a new github repo and make public via a gh-pages branch.
 
 2). Create an index.html file. This file should be semantic, accessible, responsive, and discoverable. 
 
