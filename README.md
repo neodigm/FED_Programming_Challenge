@@ -1,4 +1,4 @@
-# FYP FED_Programming_Challenge
+# FED_Programming_Challenge
 This is a front-end engineer programming exercise designed to test the skills required to maintain an eCom site utilizing modern technology native to the browser.
 
 Your task is to create a hierarchical menu displaying products by collapsible categories with “add to favorites” functionality.
