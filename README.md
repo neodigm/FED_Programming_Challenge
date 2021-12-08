@@ -7,7 +7,7 @@ Your task is to create a hierarchical menu displaying products by collapsible ca
 
 2). Create an index.html file. This file should be semantic, accessible, responsive, and discoverable. 
 
-Accessible - Landmark ARIA roles - passes Lighthouse tests - keyboard navigable
+Accessible - Landmark ARIA roles - passes Lighthouse tests - keyboard navigable - WCAG 2.1 AAA colors
 
 Responsive - Displays on a mobile device and passes Google mobile tests
 
