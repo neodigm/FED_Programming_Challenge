@@ -6,7 +6,7 @@ Tips: If you cannot finish simply do the best you can and explain your thought p
 
 <p align="center">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvw.svg" width="33" alt="Vivid 🗝️ Flux FED 🪐 UX Engineer">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="33" alt="M5M Chicago">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="33" alt="M5M Chicago DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨ Vue  🚀 Svelte 🌶️ htmlx">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvb.svg" width="33" alt="WASM PWA Interactive Infographic">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="22" alt="WASM PWA Interactive InfographicTypeScript ⚡ WASM ✨ PWA 🍭 ThreeJS">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="33" alt="TypeScript ⚡ WASM ✨ PWA 🍭 ThreeJSWASM PWA Interactive Infographic">
