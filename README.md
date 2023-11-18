@@ -11,7 +11,7 @@ Tips: If you cannot finish simply do the best you can and explain your thought p
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="22" alt="WASM PWA Interactive InfographicTypeScript ⚡ WASM ✨ PWA 🍭 ThreeJS">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="33" alt="TypeScript ⚡ WASM ✨ PWA 🍭 ThreeJSWASM PWA Interactive Infographic">
 <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvp.svg" width="33" alt="WASM PWA Interactive Infographic TypeScript ⚡ WASM ✨ PWA 🍭 ThreeJS">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="33" alt="WASM PWA Interactive Infographic 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
+<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="33" alt="WASM PWA Interactive Infographic 🌑🌒🌓🌔🌕🌖🌗🌘🌑 Infographics UX PWA Typescript Svelte ThreeJS Vue ✨ htmx">
 </p>
 
 ---
