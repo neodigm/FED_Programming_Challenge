@@ -25,6 +25,30 @@ Try not to use !important
 Tips: If you cannot finish simply do the best you can and explain your thought process in the comments. Work at your own pace. We prefer quality over speed.
 
 
+🌑🌒🌓🌔🌕🌖🌗🌘🌑
+UX artisan ⚡ illustrator ⚡ front-end engineer
+Renaissance Man ✨ Weaponeered Poetry
+🚀 TypeScript && Go
+🌴 Can you keep a secret? 🎲 Arcanus 55
+✨ JavaScript && TypeScript && Go 🪐
+✨ Azure Playwright && JavaScript && TypeScript && Go 🪐
+✨ Cypress && JavaScript && TypeScript && Vue.js 🪐
+🚀 Electron && Vue.js && TypeScript && HTMX  🍰
+🪐 Git Good at Git & Git Actions 🎯
+🗝️ Flux Capacitor (WebAssembly 🐹 GoLang)🪐
+👁️ UX ⚡ Vue.js and WebGL (WASM 🐹 GoLang) 🍭
+🍰 Oscillation Overthruster (GoLang Hugo CMS) 🪐
+🗿 Oscillation Overthruster (Vue.js 🐹 GoLang)
+🦄 Creative, Business, and Tech ⚡
+Creative ⚡ Business ⚡ Technical Agility
+👁️ D3 Parallax Three.js && WebGL 🍭 CSS Paint API 🍭 GSAP 🍭
+😎 Oscillation Overthruster 🪐
+🍰 Branded 👁️ Candy 🎨
+🍰 Accelerometer Web Audio  && Vibration 🌴
+✨ Blender Three.js 🍭 glTF UV Mapping 👁️
+
+
+
 
 
 
