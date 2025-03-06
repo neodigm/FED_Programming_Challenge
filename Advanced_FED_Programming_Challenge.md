@@ -28,6 +28,7 @@ Tips: If you cannot finish simply do the best you can and explain your thought p
 🌑🌒🌓🌔🌕🌖🌗🌘🌑
 UX artisan ⚡ illustrator ⚡ front-end engineer
 Renaissance Man ✨ Weaponeered Poetry
+🏖️ Inspired Problem Solver 🚀 Visual Storyteller 
 🚀 TypeScript && Go
 🌴 Can you keep a secret? 🎲 Arcanus 55
 ✨ JavaScript && TypeScript && Go 🪐
