@@ -18,6 +18,8 @@ Try not to use !important
 
 Tips: If you cannot finish simply do the best you can and explain your thought process in the comments. Work at your own pace. We prefer quality over speed.
 
+MCP AI Agents Chat UX PWA 3D ThreeJS Vue ✨ HTMX Rust WASM
+
 
 
 
